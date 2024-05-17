@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: MyCricket
+
+mongo:
+  connectionString: mongodb+srv://ajay:ajay@dev-cluster.kkevhqw.mongodb.net/?retryWrites=true&w=majority&appName=dev-cluster
+  db_name: MyCricketApp
